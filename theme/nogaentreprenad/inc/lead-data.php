@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Noga Entreprenad AB',
+	'bransch'        => 'Byggfirma',
 	'telefon'        => '08-120 796 10',
 	'telefon_tel'    => '+46812079610',
 	'ort'            => 'Norsborg',
